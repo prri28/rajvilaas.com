@@ -66,6 +66,11 @@ nav ul {
     gap: 30px;
     margin-left: 570px;
 }
+.navlinks li:hover {
+    color: var(--text-color);
+    color: #f73606;
+    transform: scale(1.1);  
+}
 
 .hcontent {
     display: flex;
